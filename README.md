@@ -51,8 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Frysccou/Frysccou/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
