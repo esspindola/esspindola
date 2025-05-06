@@ -94,6 +94,3 @@ I'm currently looking for opportunities to gain real-world experience, contribut
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
