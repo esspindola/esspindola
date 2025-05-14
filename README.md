@@ -1,96 +1,89 @@
-## Hi there! I'm Francisco  
-  
+<div align="center">
 
-<a href="https://github.com/frysccou" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/francisco-espindola-ba3a50296" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/frysccou" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="right" style="border: none; padding-right: 15px;">
+      <h1 style="margin: 0; font-size: 2.5em;">Hello</h1>
+    </td>
+    <td style="border: none; width: 3px; background-color: #ccc; padding: 0;"></td>
+    <td align="left" style="border: none; padding-left: 15px;">
+      <h1 style="margin: 0; font-size: 2.5em;">I'm Frysccou</h1>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" style="border: none; padding-right: 15px;">
+      <h1 style="margin: 0; font-size: 2.5em;">There!</h1>
+    </td>
+    <td style="border: none; width: 3px; background-color: #ccc; padding: 0;"></td>
+    <td align="left" style="border: none; padding-left: 15px;">
+      <h2 style="margin: 0; font-size: 1.8em;">Full Stack Developer</h2>
+    </td>
+  </tr>
+</table>
 
+<a href="https://www.instagram.com/frysccou/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/francisco-espindola-ba3a50296/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="https://github.com/Frysccou" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTY1ZG05NXVoZWFreWRwamFqNGY1ZGszZXRsZjFzZzJiZmw2ejh3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H2u46cKU3VaXht6Iv9/giphy.gif" width="35">  Who Am I? 
 
-### Who am I?  
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+    </td>
+    <td>
+      <ul>
+        <li>🇦🇷 A full-stack web developer from Argentina</li>
+        <li>💻 Frontend specialist with a passion for beautiful UI</li>
+        <li>🎨 I turn ideas into interactive, responsive, and accessible interfaces</li>
+        <li>✨ My approach combines thoughtful UI design with clean code</li>
+        <li>🔧 Solid experience with backend technologies and building APIs</li>
+        <li>🚀 Looking for opportunities to grow in collaborative teams</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Tech Stack
 
-A full-stack web developer from **Argentina** 🇦🇷, with a strong focus on the **frontend** side of the stack.
+<div align="center">
+  <table>
+    <tr>
+      <th align="center"><h3>🔴 Frontend</h3></th>
+      <th align="center"><h3>🔵 Backend</h3></th>
+      <th align="center"><h3>⚫ Tools</h3></th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Core Technologies" /><br/>
+        <img src="https://skillicons.dev/icons?i=react,vue,nextjs,astro" alt="Frameworks" /><br/>
+        <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" alt="Styling" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" alt="Technologies" /><br/>
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase" alt="Databases" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker,figma,github,git" alt="Dev Tools" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-I enjoy turning ideas into interactive, responsive, and accessible user interfaces. My approach combines thoughtful UI design with clean code, always aiming for great user experience and maintainability. While frontend is where I feel most at home, I also have solid experience working with backend technologies and building reliable APIs.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats  
 
-I'm currently looking for opportunities to gain real-world experience, contribute to impactful projects, and grow as a developer in collaborative, forward-thinking teams.
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=frysccou&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frysccou&hide_border=true&layout=compact" align="center" style="width: 100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
----
-
-🛠 **Tech Stack**
-
-* **Frontend:** React ⚛️ · Next.js 🔁 · TypeScript 💙 · Tailwind CSS 🎨 · Astro 🪐 · JavaScript
-* **Design & UI:** Figma ✏️ · Responsive Design 📱 · Component-Driven Development
-* **Backend:** Node.js 🚀 · NestJS 🛡️ · TypeScript ·  PostgreSQL 🐘 · TypeORM · 🍃 Mongo DB  ·  🐘 MySQL  
-  
-
-<br/>  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=frysccou&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frysccou&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
+</div>
