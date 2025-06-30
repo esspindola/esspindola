@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" alt="Coder" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Coder" />
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#7f5af0;">Frysccou</span> 👋</h1>
@@ -14,10 +14,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTY1ZG05NXVoZWFreWRwamFqNGY1ZGszZXRsZjFzZzJiZmw2ejh3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H2u46cKU3VaXht6Iv9/giphy.gif" width="40" />
-</p>
 
 <h2 align="center">About Me</h2>
 
@@ -38,9 +34,23 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,astro,tailwind,bootstrap,sass,nodejs,express,nestjs,python,mongodb,postgres,mysql,supabase,docker,figma,github,git" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <b>Frontend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,astro,tailwind,bootstrap,sass" /><br>
+    </td>
+    <td align="center" valign="top">
+      <b>Backend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" /><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase" /><br>
+    </td>
+    <td align="center" valign="top">
+      <b>Tools</b><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,figma,github,git" /><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
