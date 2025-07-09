@@ -21,7 +21,7 @@
     <a href="https://github.com/esspindola" style="margin: 0 10px;">
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="height: 35px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
-    <a href="https://www.youtube.com/playlist?list=YOUR_YOUTUBE_PLAYLIST_ID" style="margin: 0 10px;">
+    <a href="https://music.youtube.com/playlist?list=PLr8nCm0aobtRA0SAeeK4Fa9tbWf-r-ton" style="margin: 0 10px;">
       <img src="https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtube%20music&logoColor=white&height=35" alt="YouTube Music Playlist" style="height: 35px;"/>
     </a>
   </p>
@@ -43,7 +43,7 @@
   </div>
 
   <div style="padding: 25px; border-radius: 15px; background: linear-gradient(135deg, #e6e6fa, #ffe4e1); box-shadow: 0 4px 15px rgba(0,0,0,0.1); display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
-    <img src="https://i.pinimg.com/1200x/35/3b/a1/353ba190f62817b96386f5c0a67f848f.jpg" alt="Free Time Image" style="width: 100%; max-width: 200px; height: 150px; object-fit: cover; border-radius: 10px; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://i.pinimg.com/1200x/35/3b/a1/353ba190f62817b96386f5c0a67f848f.jpg" alt="Free Time Image" style="width: 180px; height: 240px; object-fit: cover; border-radius: 10px; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <h2 style="color: #FF69B4; margin-top: 0; font-size: 1.5em;">🌸 In My Free Time</h2>
     <p style="line-height: 1.6; color: #333;">
       When I'm not coding, I'm usually found perfecting my skills by applying them in new ways. I also love to relax by playing games, listening to music (check out my <a href="https://music.youtube.com/playlist?list=PLr8nCm0aobtRA0SAeeK4Fa9tbWf-r-ton" style="color: #FF69B4; text-decoration: none;">YouTube Music playlist</a>!), and enjoying anime.
