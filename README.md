@@ -43,14 +43,12 @@
   </div>
 
   <div style="padding: 25px; border-radius: 15px; background: linear-gradient(135deg, #e6e6fa, #ffe4e1); box-shadow: 0 4px 15px rgba(0,0,0,0.1); display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
-    <img src="https://i.pinimg.com/1200x/35/3b/a1/353ba190f62817b96386f5c0a67f848f.jpg" alt="Free Time Image" style="width: 180px; height: 240px; object-fit: cover; border-radius: 10px; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <h2 style="color: #FF69B4; margin-top: 0; font-size: 1.5em;">🌸 In My Free Time</h2>
     <p style="line-height: 1.6; color: #333;">
       When I'm not coding, I'm usually found perfecting my skills by applying them in new ways. I also love to relax by playing games, listening to music (check out my <a href="https://music.youtube.com/playlist?list=PLr8nCm0aobtRA0SAeeK4Fa9tbWf-r-ton" style="color: #FF69B4; text-decoration: none;">YouTube Music playlist</a>!), and enjoying anime.
     </p>
   </div>
 
-</div>
+</div>  
 
 <div style="padding: 25px; border-radius: 15px; margin: 40px 20px; max-width: 1200px; margin-left: auto; margin-right: auto; background: linear-gradient(135deg, #f8f9fa, #e9ecef); box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
   <h2 style="color: #4B0082; margin-top: 0; text-align: center; font-size: 2em;">🍣 My Tech Stack</h2>
