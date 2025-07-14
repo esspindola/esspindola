@@ -1,6 +1,6 @@
 # Fran Espindola
 
-🌸 Full Stack developer passionate about creating beautiful and functional frontend experiences. Always seeking the perfect balance between aesthetics, user experience (UX/UI), and functional design.
+🌸 Full Stack Engineer passionate about creating beautiful and functional frontend experiences. Always seeking the perfect balance between aesthetics, user experience (UX/UI), and functional design.
 
 [Email](mailto:franespindola71@gmail.com) | [LinkedIn](https://www.linkedin.com/in/espindola-francisco/) | [GitHub](https://github.com/esspindola) | [YouTube Music Playlist](https://music.youtube.com/playlist?list=PLr8nCm0aobtRA0SAeeK4Fa9tbWf-r-ton)
 
