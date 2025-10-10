@@ -34,11 +34,8 @@ When I'm not coding, I'm usually perfecting my skills by applying them in new wa
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![NestJS](https://skillicons.dev/icons?i=nestjs)
-![C#](https://skillicons.dev/icons?i=cs)
 ![Java](https://skillicons.dev/icons?i=java)
-![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django)
 
 ### Databases
 
