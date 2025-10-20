@@ -1,4 +1,4 @@
-# Fran Espindola
+# Espíndola Francisco
 
 🌸 Full Stack Engineer passionate about creating beautiful and functional frontend experiences. Always seeking the perfect balance between aesthetics, user experience (UX/UI), and functional design.
 
