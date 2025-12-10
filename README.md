@@ -55,4 +55,4 @@ When I'm not coding, I'm usually perfecting my skills by applying them in new wa
 
 ---
 
-Made with 💖 and lots of ☕ by [Esspindola](https://frysccou-dev.vercel.app/)
+Made with 💖 and lots of ☕ by [Esspindola](https://frysccou.dev)
