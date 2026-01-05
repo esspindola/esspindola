@@ -1,26 +1,26 @@
 # Espíndola Francisco
 
-🌸 Full Stack Engineer apasionado por crear experiencias frontend hermosas y funcionales. Siempre buscando el equilibrio perfecto entre estética, experiencia de usuario (UX/UI) y diseño funcional.
+🌸 Full Stack Engineer passionate about creating beautiful and functional frontend experiences. Always seeking the perfect balance between aesthetics, user experience (UX/UI), and functional design.
 
 [Email](mailto:franespindola71@gmail.com) | [LinkedIn](https://www.linkedin.com/in/espindola-francisco/) | [GitHub](https://github.com/esspindola) | [YouTube Music Playlist](https://music.youtube.com/playlist?list=PLr8nCm0aobtRA0SAeeK4Fa9tbWf-r-ton)
 
-## 💜 Sobre Mí
+## 💜 About Me
 
-Como desarrollador Full Stack, mi corazón late verdaderamente por el frontend. Me especializo en construir interfaces de usuario atractivas e intuitivas con frameworks modernos como React, Vue y Angular. Mis habilidades de backend complementan esta pasión, permitiéndome entregar soluciones completas.
+As a Full Stack developer, my heart truly beats for frontend development. I specialize in building attractive and intuitive user interfaces using modern frameworks such as React, Vue, and Angular. My backend skills complement this passion, allowing me to deliver complete, end-to-end solutions.
 
-Soy un firme creyente en el poder del código abierto (open-source) y siempre busco oportunidades para contribuir a proyectos impactantes o comenzar nuevos, ya sea trabajando en solitario o colaborando con otros. Mi objetivo es crear cosas que marquen una diferencia real.
+I strongly believe in the power of open-source and I’m always looking for opportunities to contribute to impactful projects or start new ones, whether working solo or collaborating with others. My goal is to create things that make a real difference.
 
-Una aguda atención al detalle impulsa mi trabajo. Me apasiona la estética, la experiencia de usuario (UX/UI) y asegurar un equilibrio perfecto en cada diseño.
+A sharp attention to detail drives my work. I’m passionate about aesthetics, user experience (UX/UI), and achieving a perfect balance in every design.
 
-## 🌸 En Mi Tiempo Libre
+## 🌸 In My Free Time
 
-Cuando no estoy programando, usualmente estoy perfeccionando mis habilidades aplicándolas de nuevas maneras. También me encanta relajarme jugando, escuchando música ([mi playlist](https://music.youtube.com/playlist?list=PLr8nCm0aobtRA0SAeeK4Fa9tbWf-r-ton)) y disfrutando de anime.
+When I’m not coding, I’m usually sharpening my skills by applying them in new ways. I also enjoy relaxing by gaming, listening to music ([my playlist](https://music.youtube.com/playlist?list=PLr8nCm0aobtRA0SAeeK4Fa9tbWf-r-ton)), and watching anime.
 
 <div align="center">
 
-## 🍣 Mi Stack Tecnológico
+## 🍣 My Tech Stack
 
-### Lenguajes Base
+### Core Languages
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -29,7 +29,7 @@ Cuando no estoy programando, usualmente estoy perfeccionando mis habilidades apl
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
 
-### 💻 Frameworks & Metaframeworks
+### 💻 Frameworks & Meta-frameworks
 
 #### Frontend Frameworks
 ![React](https://skillicons.dev/icons?i=react)
@@ -40,18 +40,18 @@ Cuando no estoy programando, usualmente estoy perfeccionando mis habilidades apl
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![NestJS](https://skillicons.dev/icons?i=nestjs)
 
-#### Full Stack & Metaframeworks
+#### Full Stack & Meta-frameworks
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Nuxt.js](https://skillicons.dev/icons?i=nuxt) 
 ![Astro](https://skillicons.dev/icons?i=astro)
 
-### ✨ Styling & Diseño
+### ✨ Styling & Design
 
 ![Tailwindcss](https://skillicons.dev/icons?i=tailwindcss)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Photoshop](https://skillicons.dev/icons?i=ps)
 
-### 💾 Bases de Datos
+### 💾 Databases
 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
@@ -59,7 +59,7 @@ Cuando no estoy programando, usualmente estoy perfeccionando mis habilidades apl
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 
-### 🛠️ Herramientas & DevOps
+### 🛠️ Tools & DevOps
 
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![GitHub](https://skillicons.dev/icons?i=github)
