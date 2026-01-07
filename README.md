@@ -30,7 +30,7 @@ When I’m not coding, I’m usually sharpening my skills by applying them in ne
 ![Python](https://skillicons.dev/icons?i=python)
 ![Php](https://skillicons.dev/icons?i=php)
 
-### 💻 Frameworks & Meta-frameworks
+### 💻 Frameworks & Libraries
 
 #### Frontend Frameworks
 ![React](https://skillicons.dev/icons?i=react)
