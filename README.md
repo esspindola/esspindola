@@ -49,7 +49,14 @@ When I’m not coding, I’m usually sharpening my skills by applying them in ne
 #### Full Stack & Meta-frameworks
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Nuxt.js](https://skillicons.dev/icons?i=nuxt)
-<img src="https://dmtgy0px4zdqn.cloudfront.net/images/brand/meteor-icon-black.png" alt="Meteor" width="45" height="45"> 
+<img
+  src="https://dmtgy0px4zdqn.cloudfront.net/images/brand/meteor-icon-black.png"
+  alt="Meteor"
+  width="45"
+  height="45"
+  style="background:white;border-radius:50%;padding:6px;"
+/>
+
 ![Astro](https://skillicons.dev/icons?i=astro)
 
 ### ✨ Styling & Design
