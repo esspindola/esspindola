@@ -28,6 +28,7 @@ When I’m not coding, I’m usually sharpening my skills by applying them in ne
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
+![Php](https://skillicons.dev/icons?i=php)
 
 ### 💻 Frameworks & Meta-frameworks
 
@@ -35,10 +36,15 @@ When I’m not coding, I’m usually sharpening my skills by applying them in ne
 ![React](https://skillicons.dev/icons?i=react)
 ![Vue](https://skillicons.dev/icons?i=vue)
 ![Angular](https://skillicons.dev/icons?i=angular)
+![Gatsby](https://skillicons.dev/icons?i=gatsby)
 
 #### Backend Frameworks
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![NestJS](https://skillicons.dev/icons?i=nestjs)
+![Spring boot](https://skillicons.dev/icons?i=spring)
+![Django](https://skillicons.dev/icons?i=django)
+![Fastapi](https://skillicons.dev/icons?i=fastapi)
+![Laravel](https://skillicons.dev/icons?i=laravel)
 
 #### Full Stack & Meta-frameworks
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
@@ -48,6 +54,7 @@ When I’m not coding, I’m usually sharpening my skills by applying them in ne
 ### ✨ Styling & Design
 
 ![Tailwindcss](https://skillicons.dev/icons?i=tailwindcss)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Photoshop](https://skillicons.dev/icons?i=ps)
 
