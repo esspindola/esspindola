@@ -17,7 +17,7 @@ My favorite tools are **Antigravity** and **Photoshop** <img src="https://skilli
 ### Fun Facts:
 * 🌸 I’m obsessed with pixel-perfect details.
 * 🎧 I code better while listening to [this playlist](https://music.youtube.com/playlist?list=PLr8nCm0aobtRA0SAeeK4Fa9tbWf-r-ton).
-* 📺 I enjoy gaming and watching anime in my free time.
+* 📺 I enjoy gaming, watching anime or reading mangas in my free time.
 
 **Hobbies:** anime, gaming, music, building things.
 
