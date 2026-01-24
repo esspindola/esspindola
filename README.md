@@ -82,5 +82,5 @@ My favorite tools are **Antigravity** and **Photoshop** <img src="https://skilli
 ---
 
 <p align="right">
-  Made with 💖 by <a href="https://github.com/esspindola">Esspindola</a>
+  Made with 🖤🐈‍⬛ by <a href="https://github.com/esspindola">Esspindola</a>
 </p>
