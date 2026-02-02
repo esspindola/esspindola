@@ -1,4 +1,4 @@
-# Hey there! I'm Francisco 🖤🐈‍
+# Heeeeyy! I'm Francisco 🖤🐈‍
 
 I’m a **Full Stack Engineer** passionate about creating beautiful and functional frontend experiences.  
 I focus on finding the perfect balance between aesthetics, UX/UI, and functional design. 
