@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=esspindola&color=blueviolet&style=for-the-badge" alt="Profile views"/>
   &nbsp;
-  <a href="mailto:franchuespindola25@gmail.com">
+  <a href="mailto:franespindola71@gmail.com">
     <img src="https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me"/>
   </a>
   &nbsp;
@@ -41,7 +41,7 @@ I'm a **Full Stack Engineer** who ships — from pixel-perfect frontends to rock
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="22px" align="center"/> Obsessed with **pixel-perfect details** and the balance between **aesthetics & function**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="22px" align="center"/> Currently building with **Next.js, Tailwind CSS & Supabase**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="22px" align="center"/> Reach me at: **[franchuespindola25@gmail.com](mailto:franchuespindola25@gmail.com)**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="22px" align="center"/> Reach me at: **[franespindola71@gmail.com](mailto:franespindola71@gmail.com)**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="22px" align="center"/> Code better with [this playlist](https://music.youtube.com/playlist?list=PLr8nCm0aobtRA0SAeeK4Fa9tbWf-r-ton)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="22px" align="center"/> Off the screen: **anime, gaming & manga**
 
