@@ -1,47 +1,65 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Banner de Francisco Espindola" width="100%">
+  <img src="./assets/banner.png" alt="Francisco Espindola - Full Stack Engineer" width="100%"/>
 </div>
 
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/>
-  Heeeeyy! I'm <a href="https://github.com/esspindola">Francisco</a>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Emoji" width="30px"/>
-  <img align="right" src="https://komarev.com/ghpvc/?username=esspindola" alt="GitHub profile views counter">
-</h1>
+<br/>
 
-<div>
-  <img src="./assets/coding.gif" width="300px" align="right" alt="Coding animation"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=esspindola&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  &nbsp;
+  <a href="mailto:franchuespindola25@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/esspindola">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> If an idea pops into my head, chances are I’ll build it and ship it.</div>
+<br/>
 
-<ul>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop Emoji" width="25px" align="center" /> <strong>Web Engineer</strong> &amp; <strong>Content Creator</strong>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:franespindola71@gmail.com"><strong>franespindola71@gmail.com</strong></a>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles Emoji" width="25px" align="center" /> Obsessed with <strong>pixel-perfect details</strong> and the balance between <strong>aesthetics, UX/UI and function</strong>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal Emoji" width="25px" align="center" /> Currently building with <strong>Next.js, Tailwind CSS &amp; Supabase</strong>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphones Emoji" width="25px" align="center" /> Code better while listening to <a href="https://music.youtube.com/playlist?list=PLr8nCm0aobtRA0SAeeK4Fa9tbWf-r-ton"><strong>this playlist</strong></a>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game Emoji" width="25px" align="center" /> In my free time: <strong>anime, gaming &amp; mangas</strong>
-  </li>
-</ul>
+<h1 align="center">Hey, I'm Francisco Espindola <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35px"/></h1>
 
-## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
+<h3 align="center">
+  Full Stack Engineer — I turn ideas into products people actually use.
+</h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esspindola)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franchuespindola25@gmail.com) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
+<br/>
 
-## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Skills:</div>
+<div align="center">
+  <i>"If an idea pops into my head, chances are I'll build it and ship it."</i>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25px"/>
+</div>
+
+<br/>
+
+---
+
+## Who I Am
+
+I'm a **Full Stack Engineer** who ships — from pixel-perfect frontends to rock-solid backends. I care deeply about **UX/UI**, **performance**, and writing code that's clean enough to be proud of. Whether it's a fast MVP or a production-grade platform, I bring ideas to life end-to-end.
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="22px" align="center"/> Obsessed with **pixel-perfect details** and the balance between **aesthetics & function**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="22px" align="center"/> Currently building with **Next.js, Tailwind CSS & Supabase**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="22px" align="center"/> Reach me at: **[franchuespindola25@gmail.com](mailto:franchuespindola25@gmail.com)**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="22px" align="center"/> Code better with [this playlist](https://music.youtube.com/playlist?list=PLr8nCm0aobtRA0SAeeK4Fa9tbWf-r-ton)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="22px" align="center"/> Off the screen: **anime, gaming & manga**
+
+---
+
+## What I Bring to the Table
+
+| | |
+|---|---|
+| **Full Stack Development** | End-to-end product delivery — from DB schema to deployed UI |
+| **Frontend Excellence** | React, Next.js, Vue, Nuxt — responsive, fast, beautiful |
+| **Backend Engineering** | REST APIs, real-time systems, auth, database design |
+| **Design-aware** | Figma, Photoshop — I can read and implement design systems |
+| **Ship Mentality** | I don't just code, I deliver working products |
+
+---
+
+## Tech Stack
 
 <details>
 <summary><b>🍣 View Full Tech Stack</b></summary>
@@ -108,18 +126,24 @@
 
 </details>
 
-<br/>
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="./assets/footer.gif" alt="footer-gif"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=esspindola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esspindola&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="./assets/footer.png" alt="Footer" width="100%"/>
 </div>
 
 <br/>
 
-<a href="https://github.com/esspindola" target="_blank">
-  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
-</a>
-
-<p align="right">
-  Made with 🤍🐕 by <a href="https://github.com/esspindola">Esspindola</a>
+<p align="center">
+  Made with 🤍🐕 by <a href="https://github.com/esspindola"><strong>Esspindola</strong></a>
 </p>
