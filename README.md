@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Francisco Espindola - Full Stack Engineer" width="100%"/>
+  <img src="./assets/NewBanner.png" alt="Francisco Espindola - Full Stack Engineer" width="100%"/>
 </div>
 
 <br/>
@@ -139,7 +139,7 @@ I'm a **Full Stack Engineer** who ships — from pixel-perfect frontends to rock
 ---
 
 <div align="center">
-  <img src="./assets/footer.png" alt="Footer" width="100%"/>
+  <img src="./assets/Footer.png" alt="Footer" width="100%"/>
 </div>
 
 <br/>
